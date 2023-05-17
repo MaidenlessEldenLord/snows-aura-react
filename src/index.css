@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+main{
+  max-width: 1280px;
+  margin: auto;
+  min-height: 90vh;
+  padding: 10px;
+} 
+
+header {
+  //font-family: 'Allura', cursive;
+  //font-family: 'Merienda', cursive;
+  //font-family: 'Pinyon Script', cursive;
+  //font-family: 'Rochester', cursive;
+  //font-family: 'Yellowtail', cursive;
+}
+
