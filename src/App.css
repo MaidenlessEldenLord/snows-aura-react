@@ -11,4 +11,14 @@
 
 .cart h1{
   text-align: center;
+} 
+
+.path {
+  margin: 10px
+} 
+
+.checkout-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; 
 }
